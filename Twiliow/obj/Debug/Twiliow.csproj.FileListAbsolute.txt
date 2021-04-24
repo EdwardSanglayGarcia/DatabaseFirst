@@ -1,0 +1,17 @@
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\Twiliow.exe.config
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\Twiliow.exe
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\Twiliow.pdb
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\Twilio.dll
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Edward\source\repos\Twiliow\Twiliow\bin\Debug\Twilio.xml
+C:\Users\Edward\source\repos\Twiliow\Twiliow\obj\Debug\Twiliow.csprojAssemblyReference.cache
+C:\Users\Edward\source\repos\Twiliow\Twiliow\obj\Debug\Twiliow.csproj.CoreCompileInputs.cache
+C:\Users\Edward\source\repos\Twiliow\Twiliow\obj\Debug\Twiliow.csproj.CopyComplete
+C:\Users\Edward\source\repos\Twiliow\Twiliow\obj\Debug\Twiliow.exe
+C:\Users\Edward\source\repos\Twiliow\Twiliow\obj\Debug\Twiliow.pdb
